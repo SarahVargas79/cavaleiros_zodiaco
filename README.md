@@ -1,4 +1,4 @@
-## **Cavaleiros do Zodíaco: A Enciclopédia Online**
+## **Cavaleiros do Zodíaco - Imersão Dev com Google Gemini**
 
 ### **Sobre**
 
